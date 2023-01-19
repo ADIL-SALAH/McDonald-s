@@ -1,0 +1,38 @@
+
+.dropdown-menu.show
+{
+    display: flex;
+    top: 58px;
+}
+
+.menu-holder
+{
+    flex: 1;
+}
+
+.note
+{
+    font-size: 10px;
+}
+ul
+{
+    list-style: none;
+}
+.ms
+{
+    margin-left: 10px;
+}
+.mb
+{
+    margin-bottom: 150px;
+}
+
+.margin
+{
+    margin-left: auto;
+}
+.fs-lang
+{
+    font-size: xx-small;
+}
+
